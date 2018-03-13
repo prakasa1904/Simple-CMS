@@ -15,7 +15,7 @@ default: &default
   pool: 5
   database: ruby
   username: root
-  password: tubokarto1904
+  password: dummypass
   socket: /var/run/mysqld/mysqld.sock
 
 development:
